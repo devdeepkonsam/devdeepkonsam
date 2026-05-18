@@ -66,15 +66,24 @@ Backend-focused developer who likes building clean APIs, solving DSA in Java, an
 ## GitHub Pulse & Contribution Stats
 
 <div align="center">
-	<!-- Contribution heatmap -->
-	<img src="https://github-readme-activity-graph.cyclic.app/graph?username=devdeepkonsam&theme=github-dark" alt="Contribution graph" />
-	<br/>
-	<!-- Summary cards -->
-	<img src="https://github-readme-stats.shion.dev/api?username=devdeepkonsam&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
-	<br/>
-	<img src="https://streak-stats.demolab.com/?user=devdeepkonsam&theme=dark&hide_border=false" alt="Streak stats" />
-	<br/>
-	<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=devdeepkonsam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
+<table>
+	<tr>
+		<td align="center">
+			<img height="160" src="https://github-readme-stats.vercel.app/api?username=devdeepkonsam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+		</td>
+		<td align="center">
+			<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdeepkonsam&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			<img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devdeepkonsam&theme=tokyonight" alt="Contribution details" />
+		</td>
+		<td align="center">
+			<img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=devdeepkonsam&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+		</td>
+	</tr>
+</table>
 </div>
 
 ## Focus Areas
