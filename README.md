@@ -63,11 +63,12 @@ Backend-focused developer who likes building clean APIs, solving DSA in Java, an
 - MERN stack apps with JavaScript on both the client and server side.
 - Deployments and workflows that fit into Google Cloud.
 
-## GitHub Pulse & Contribution Stats
+## Stats & Languages
 
-<p align="center">
+<div align="center">
+	<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=devdeepkonsam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
+	<br/>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=devdeepkonsam&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
 </div>
 
 ## Focus Areas
