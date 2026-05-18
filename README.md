@@ -11,11 +11,14 @@
 	<a href="https://github.com/devdeepkonsam">
 		<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 	</a>
-	<a href="https://www.linkedin.com">
+	<a href="https://www.linkedin.com/in/devdeep-s-156400292/">
 		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 	</a>
-	<a href="mailto:hello@example.com">
-		<img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+	<a href="https://g.dev/DEVEEPSINGHA">
+		<img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer" />
+	</a>
+	<a href="https://medium.com/@devdeepsingha">
+		<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 	</a>
 </p>
 
@@ -28,20 +31,21 @@
 
 ## About Me
 
-- Tech-focused builder who likes clean UI, practical systems, and readable code.
-- Interested in modern web development, developer tooling, and elegant automation.
-- I like shipping work that feels polished, fast, and useful.
+- Backend-focused developer who likes clean systems, practical APIs, and readable code.
+- Currently learning Spring Boot while building with Java, Node.js, Express, and Google Cloud.
+- I like shipping work that feels reliable, fast, and easy to maintain.
 
 ## Tech Stack
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,git,github,vscode" alt="Tech stack" />
+	<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,js,git,github,vscode,gcp" alt="Tech stack" />
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Frontend-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Frontend" />
-	<img src="https://img.shields.io/badge/Backend-111827?style=for-the-badge&logo=node.js&logoColor=339933" alt="Backend" />
-	<img src="https://img.shields.io/badge/Tooling-111827?style=for-the-badge&logo=githubactions&logoColor=white" alt="Tooling" />
+	<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+	<img src="https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+	<img src="https://img.shields.io/badge/Node.js%20%2B%20Express-111827?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js and Express" />
+	<img src="https://img.shields.io/badge/Google%20Cloud-111827?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
 </p>
 
 ## GitHub Pulse
@@ -57,9 +61,9 @@
 
 ## Currently
 
-- Building sharper developer experiences.
-- Exploring better patterns for maintainable frontends.
-- Refining the balance between speed, structure, and polish.
+- Building backend services and APIs.
+- Learning Spring Boot in real projects.
+- Expanding cloud skills with Google Cloud.
 
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:0f172a&height=140&section=footer" alt="Footer" />
