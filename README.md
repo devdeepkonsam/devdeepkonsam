@@ -48,22 +48,18 @@
 	<img src="https://img.shields.io/badge/Google%20Cloud-111827?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
 </p>
 
-## GitHub Pulse
-
-<p align="center">
-	<img height="160" src="https://github-readme-stats.vercel.app/api?username=devdeepkonsam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-	<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdeepkonsam&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=devdeepkonsam&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
 ## Currently
 
 - Building backend services and APIs.
 - Learning Spring Boot in real projects.
 - Expanding cloud skills with Google Cloud.
+
+## Focus Areas
+
+- Java backend development with Spring Boot.
+- REST APIs, clean architecture, and service design.
+- Node.js and Express for fast backend prototyping.
+- Google Cloud for deployment and cloud-native workflows.
 
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:0f172a&height=140&section=footer" alt="Footer" />
