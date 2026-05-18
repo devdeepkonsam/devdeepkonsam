@@ -66,6 +66,10 @@ Backend-focused developer who likes building clean APIs, solving DSA in Java, an
 ## GitHub Pulse & Contribution Stats
 
 <div align="center">
+	<!-- Contribution heatmap -->
+	<img src="https://github-readme-activity-graph.cyclic.app/graph?username=devdeepkonsam&theme=github-dark" alt="Contribution graph" />
+	<br/>
+	<!-- Summary cards -->
 	<img src="https://github-readme-stats.shion.dev/api?username=devdeepkonsam&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
 	<br/>
 	<img src="https://streak-stats.demolab.com/?user=devdeepkonsam&theme=dark&hide_border=false" alt="Streak stats" />
