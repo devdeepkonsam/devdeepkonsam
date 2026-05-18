@@ -11,26 +11,11 @@
 	<a href="https://github.com/devdeepkonsam">
 		<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 	</a>
-	<a href="https://github.com/devdeepkonsam">
-		<img src="https://img.shields.io/github/followers/devdeepkonsam?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
-	</a>
-	<a href="https://github.com/devdeepkonsam">
-		<img src="https://img.shields.io/badge/Top%20Language-View-2b7bb9?style=for-the-badge&logo=github" alt="Top language" />
-	</a>
-	<a href="https://komarev.com/ghpvc/?username=devdeepkonsam">
-		<img src="https://komarev.com/ghpvc/?username=devdeepkonsam" alt="Profile views" />
-	</a>
 	<a href="https://www.linkedin.com/in/devdeep-s-156400292/">
 		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 	</a>
-	<a href="https://g.dev/DEVEEPSINGHA">
-		<img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer" />
-	</a>
-	<a href="https://g.dev/DEVEEPSINGHA">
-		<img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer" />
-	</a>
 	<a href="https://leetcode.com/u/devdeepkonsam/">
-		<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+		<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 	</a>
 	<a href="https://medium.com/@devdeepsingha">
 		<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
