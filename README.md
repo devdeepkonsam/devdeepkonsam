@@ -60,22 +60,28 @@ Backend-focused developer who likes building clean APIs, solving DSA in Java, an
 - MERN stack apps with JavaScript on both the client and server side.
 - Deployments and workflows that fit into Google Cloud.
 
-## GitHub Pulse
+## GitHub Pulse & Contribution Stats
 
-<p align="center">
-	<img height="160" src="https://github-readme-stats.vercel.app/api?username=devdeepkonsam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-	<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdeepkonsam&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-## Contribution Stats
-
-<p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devdeepkonsam&theme=tokyonight" alt="Contribution details" />
-</p>
-
-<p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=devdeepkonsam&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+<div align="center">
+<table>
+	<tr>
+		<td align="center">
+			<img height="160" src="https://github-readme-stats.vercel.app/api?username=devdeepkonsam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+		</td>
+		<td align="center">
+			<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdeepkonsam&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			<img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devdeepkonsam&theme=tokyonight" alt="Contribution details" />
+		</td>
+		<td align="center">
+			<img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=devdeepkonsam&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+		</td>
+	</tr>
+</table>
+</div>
 
 ## Focus Areas
 
