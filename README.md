@@ -40,13 +40,14 @@ Backend-focused developer who likes building clean APIs, solving DSA in Java, an
 ## Toolbox
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mongodb,js,git,github,vscode,gcp,docker" alt="Toolbox" />
+	<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mongodb,js,git,github,vscode,gcp" alt="Toolbox" />
 </p>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 	<img src="https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
-	<img src="https://img.shields.io/badge/Node.js%20%2B%20Express-111827?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js and Express" />
+	<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
+	<img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express.js" />
 	<img src="https://img.shields.io/badge/Google%20Cloud-111827?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
 	<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
 	<img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
@@ -59,15 +60,17 @@ Backend-focused developer who likes building clean APIs, solving DSA in Java, an
 - MERN stack apps with JavaScript on both the client and server side.
 - Deployments and workflows that fit into Google Cloud.
 
-## Contribution Snapshot
+## GitHub Pulse
+
+<p align="center">
+	<img height="160" src="https://github-readme-stats.vercel.app/api?username=devdeepkonsam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+	<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdeepkonsam&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+## Contribution Stats
 
 <p align="center">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devdeepkonsam&theme=tokyonight" alt="Contribution details" />
-</p>
-
-<p align="center">
-	<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devdeepkonsam&theme=tokyonight" alt="GitHub stats" />
-	<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devdeepkonsam&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
 </p>
 
 <p align="center">
