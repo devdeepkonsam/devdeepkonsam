@@ -66,9 +66,9 @@ Backend-focused developer who likes building clean APIs, solving DSA in Java, an
 ## Stats & Languages
 
 <div align="center">
-	<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=devdeepkonsam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
-	<br/>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=devdeepkonsam&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+    <br/>
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=devdeepkonsam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
 </div>
 
 ## Focus Areas
