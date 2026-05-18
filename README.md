@@ -29,16 +29,18 @@
 	/>
 </p>
 
-## Bio
+## About Me
+
+Backend-focused developer who likes building clean APIs, solving DSA in Java, and shipping practical products with modern tooling.
 
 - DSA in Java.
 - Currently learning Spring Boot.
 - Worked on projects with the MERN stack.
 
-## Tech Stack
+## Toolbox
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,js,git,github,vscode,gcp" alt="Tech stack" />
+	<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mongodb,js,git,github,vscode,gcp,docker" alt="Toolbox" />
 </p>
 
 <p align="center">
@@ -46,7 +48,16 @@
 	<img src="https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
 	<img src="https://img.shields.io/badge/Node.js%20%2B%20Express-111827?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js and Express" />
 	<img src="https://img.shields.io/badge/Google%20Cloud-111827?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
+	<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+	<img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
 </p>
+
+## What I'm Building
+
+- Backend services and REST APIs.
+- Spring Boot projects while learning the framework.
+- MERN stack apps with JavaScript on both the client and server side.
+- Deployments and workflows that fit into Google Cloud.
 
 ## GitHub Pulse
 
@@ -55,17 +66,11 @@
 	<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdeepkonsam&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
-## Currently
-
-- Building backend services and APIs.
-- Learning Spring Boot in real projects.
-- Expanding cloud skills with Google Cloud.
-
 ## Focus Areas
 
 - Java backend development with Spring Boot.
 - REST APIs, clean architecture, and service design.
-- Node.js and Express for fast backend prototyping.
+- Node.js and Express for backend prototyping.
 - Google Cloud for deployment and cloud-native workflows.
 
 <p align="center">
