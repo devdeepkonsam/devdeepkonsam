@@ -14,6 +14,9 @@
 	<a href="https://www.linkedin.com/in/devdeep-s-156400292/">
 		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 	</a>
+	<a href="https://g.dev/DEVEEPSINGHA">
+		<img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer" />
+	</a>
 	<a href="https://leetcode.com/u/devdeepkonsam/">
 		<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 	</a>
