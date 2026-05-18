@@ -66,13 +66,13 @@ Backend-focused developer who likes building clean APIs, solving DSA in Java, an
 ## Stats & Languages
 
 <div align="center">
-	<table>
+	<table cellspacing="12">
 		<tr>
-			<td align="center">
-				<img src="https://github-readme-streak-stats.herokuapp.com/?user=devdeepkonsam&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+			<td align="center" valign="middle" style="padding:8px;">
+				<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=devdeepkonsam&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 			</td>
-			<td align="center">
-				<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=devdeepkonsam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
+			<td align="center" valign="middle" style="padding:8px;">
+				<img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=devdeepkonsam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
 			</td>
 		</tr>
 	</table>
