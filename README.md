@@ -29,11 +29,11 @@
 	/>
 </p>
 
-## About Me
+## Bio
 
-- Backend-focused developer who likes clean systems, practical APIs, and readable code.
-- Currently learning Spring Boot while building with Java, Node.js, Express, and Google Cloud.
-- I like shipping work that feels reliable, fast, and easy to maintain.
+- DSA in Java.
+- Currently learning Spring Boot.
+- Worked on projects with the MERN stack.
 
 ## Tech Stack
 
@@ -46,6 +46,13 @@
 	<img src="https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
 	<img src="https://img.shields.io/badge/Node.js%20%2B%20Express-111827?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js and Express" />
 	<img src="https://img.shields.io/badge/Google%20Cloud-111827?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
+</p>
+
+## GitHub Pulse
+
+<p align="center">
+	<img height="160" src="https://github-readme-stats.vercel.app/api?username=devdeepkonsam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+	<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdeepkonsam&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ## Currently
